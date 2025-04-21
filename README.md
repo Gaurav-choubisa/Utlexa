@@ -1,3 +1,3 @@
 # Utlexa
 words manipulation  website repository
-Aurther - Leo Coder
+Auther - Leo Coder
